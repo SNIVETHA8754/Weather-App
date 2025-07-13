@@ -40,7 +40,7 @@ const Weather = () => {
 
   return (
     <div className="fixed inset-0 bg-gradient-to-br from-blue-100 via-teal-100 to-cyan-100  flex flex-col items-center justify-center p-4">
-      {/* Title with weather icon */}
+      {/* Title with weather image */}
       <div className="flex items-center mb-4">
         <h1 className="text-4xl font-bold text-slate-800">Weather App</h1>
         <img
